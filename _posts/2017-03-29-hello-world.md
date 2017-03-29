@@ -3,7 +3,7 @@ layout:     post
 title:      "为什么我选择github+jekyll"
 subtitle:   "我只是想找回迷失中的自己 "
 date:       2017-03-29 22:06:06
-author:     "CHihyong Chen"
+author:     "Chihyong Chen"
 header-img: "img/post-bg-alibaba.jpg"
 tags:
     - 随想
