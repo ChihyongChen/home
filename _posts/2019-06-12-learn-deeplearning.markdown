@@ -18,9 +18,9 @@ tags:
 
 安装TensorFlow Hub
 
-'''
+```
 pip install tensorflow-hub
-'''
+```
 
 文档：https://tensorflow.google.cn/hub/
 
