@@ -13,8 +13,19 @@ tags:
 > “不断探索...... ”
 
 
-# for 学术
+# For 学术
 
-## 找论文的代码
+### 找论文代码，Paperswithcode
 
 [https://paperswithcode.com/](https://paperswithcode.com/)
+
+### 快速编写Latex公式，Convert images to LaTeX
+
+[https://mathpix.com](https://mathpix.com)
+
+
+# For 生活
+
+### 快速抠人图
+
+[https://www.remove.bg/](https://www.remove.bg/)

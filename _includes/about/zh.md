@@ -1,7 +1,9 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 多看点书，坚持看书
+> 
+> 坚持学习，无愧自己  
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+
+陈志勇，2015级博士生，现就读于厦门大学软件学院计算机科学与技术系。2013年毕业于厦门大学软件学院软件工程系，工学学士；后保研至厦门大学软件学院计算机科学与技术系，于2015年硕博连读开始博士生涯。技能一般，绝招尚在开发中。
 
 职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
 
