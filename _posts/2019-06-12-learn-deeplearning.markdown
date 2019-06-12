@@ -22,6 +22,6 @@ tags:
 pip install tensorflow-hub
 ```
 
-文档：(https://tensorflow.google.cn/hub/)
+文档：[https://tensorflow.google.cn/hub/](https://tensorflow.google.cn/hub/)
 
-Github：(https://github.com/tensorflow/hub)
+Github：[https://github.com/tensorflow/hub](https://github.com/tensorflow/hub)
