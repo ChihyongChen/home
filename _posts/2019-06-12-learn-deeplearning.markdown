@@ -23,9 +23,9 @@ tags:
 
 TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of machine learning models. A module is a self-contained piece of a TensorFlow graph, along with its weights and assets, that can be reused across different tasks in a process known as transfer learning. Transfer learning can:
     
-    * Train a model with a smaller dataset,
-    * Improve generalization, and
-    * Speed up training.
+>Train a model with a smaller dataset,<br>
+>Improve generalization, and<br>
+> Speed up training.
 
 简单来说，就是快速将预训练过的TensorFlow模型片段再次利用到新的任务上。
 
