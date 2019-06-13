@@ -5,7 +5,7 @@ subtitle:   "DeepLearning"
 date:       2019-06-12 15:52:00
 author:     "czy"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
+<!-- catalog: true -->
 tags:
     - 深度学习
 ---
