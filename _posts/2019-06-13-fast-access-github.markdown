@@ -13,31 +13,31 @@ tags:
 
 > “天下武功，唯快不破...... ”
 
-转自https://blog.csdn.net/u011275684/article/details/79655038
+转自[https://blog.csdn.net/u011275684/article/details/79655038](https://blog.csdn.net/u011275684/article/details/79655038)
 
 访问GitHub经常很慢，通过**绕过dns解析，在本地直接绑定host**，该方法也可加速其他因为CDN被屏蔽导致访问慢的网站。 
 
-在本地host文件中添加映射，步骤如下：
-1、用文本编辑器打开C:\Windows\System32\drivers\etc\hosts
-2、打开 http://tool.chinaz.com/dns(查询域名映射关系工具)
-3、查询 github.global.ssl.fastly.net 和 assets-cdn.github.com 两个地址
-4、多查几次，选择一个稳定，延迟(TTL)较低的 ip 按如下方式添加到host文件 
+在本地host文件中添加映射，步骤如下：<br>
+1、用文本编辑器打开C:\Windows\System32\drivers\etc\hosts<br>
+2、打开 http://tool.chinaz.com/dns(查询域名映射关系工具)<br>
+3、查询 github.global.ssl.fastly.net 和 assets-cdn.github.com 两个地址<br>
+4、多查几次，选择一个稳定，延迟(TTL)较低的 ip 按如下方式添加到host文件 <br>
 
 如将下列信息添加到host文件中
-\# github
-151.101.109.194  github.global.ssl.fastly.net
-185.199.111.153 assets-cdn.github.com
+\# github<br>
+151.101.109.194  github.global.ssl.fastly.net<br>
+185.199.111.153 assets-cdn.github.com<br>
 
 5、保存文件，重新打开浏览器
 
 有时候改完hosts文件没立即生效，需要刷新DNS缓存
 
-windows下刷新DNS的方法：
-打开CMD
+windows下刷新DNS的方法：<br>
+打开CMD<br>
 输入ipconfig /flushdns
 
-Linux下刷新DNS的方法：
-输入指令：sudo /etc/init.d/networking restart 即可。
+Linux下刷新DNS的方法：<br>
+输入指令：sudo /etc/init.d/networking restart 即可。<br>
 然后，你关闭浏览器再访问github就起飞了。
 
 
