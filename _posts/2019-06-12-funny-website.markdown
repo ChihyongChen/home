@@ -3,7 +3,7 @@ layout:     post
 title:      "网站收藏"
 subtitle:   "学习不止"
 date:       2019-06-12 16:37:00
-author:     "czy"
+author:     "陈志勇"
 header-img: "img/post-bg-2015.jpg"
 <!-- catalog: true -->
 tags:

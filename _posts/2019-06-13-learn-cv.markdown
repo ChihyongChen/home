@@ -1,0 +1,14 @@
+---
+layout:     post
+title:      "计算机视觉学习笔记"
+subtitle:   "Computer Vision"
+date:       2019-06-12 16:37:00
+author:     "陈志勇"
+header-img: "img/post-bg-art.jpg"
+<!-- catalog: true -->
+tags:
+    - 计算机视觉
+---
+
+> “所见即所得...... ”
+

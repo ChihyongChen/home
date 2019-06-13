@@ -3,7 +3,7 @@ layout:     post
 title:      "深度学习推荐收藏"
 subtitle:   "DeepLearning"
 date:       2019-06-12 15:52:00
-author:     "czy"
+author:     "陈志勇"
 header-img: "img/post-bg-2015.jpg"
 <!-- catalog: true -->
 tags:
