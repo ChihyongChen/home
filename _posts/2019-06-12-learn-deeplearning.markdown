@@ -12,6 +12,13 @@ tags:
 
 > “从现在开始...... ”
 
+## 学习视频
+
+
+吴恩达 [《机器学习》](https://www.bilibili.com/video/av9912938?from=search&seid=16715517750360132554)
+
+李宏毅 [《深度学习》--花书](https://www.bilibili.com/video/av9770302?from=search&seid=10051005272097716619)
+
 ## TensorFlow Hub
 
 使用TensorFlow Hub需要TensorFlow的版本在1.7以上
@@ -34,5 +41,5 @@ Github：[https://github.com/tensorflow/hub](https://github.com/tensorflow/hub)
 
 可用模型：[https://pytorch.org/hub](https://pytorch.org/hub)
 
-Github:[https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+Github：[https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
 
