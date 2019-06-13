@@ -14,10 +14,17 @@ tags:
 
 ## 学习视频
 
-
 吴恩达 [《机器学习》](https://www.bilibili.com/video/av9912938?from=search&seid=16715517750360132554)
 
 李宏毅 [《深度学习》--花书](https://www.bilibili.com/video/av9770302?from=search&seid=10051005272097716619)
+
+## Github
+
+[AiLearning](https://github.com/apachecn/AiLearning):机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP http://ailearning.apachecn.org/
+
+[Algorithm_Interview_Notes-Chinese](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese):2018/2019/校招/春招/秋招/算法/机器学习(Machine Learning)/深度学习(Deep Learning)/自然语言处理(NLP)/C/C++/Python/面试笔记 
+
+[deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese):Deep Learning Book Chinese Translation
 
 ## TensorFlow Hub
 
