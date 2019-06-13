@@ -23,6 +23,14 @@ tags:
 
 [https://mathpix.com](https://mathpix.com)
 
+### Markdown 语法快速入门
+
+[https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html](https://www.w3cschool.cn/markdownyfsm/markdownyfsm-odm6256r.html)
+
+
+### latex写论文编辑器 Texstudio
+
+[http://texstudio.sourceforge.net/](http://texstudio.sourceforge.net/)
 
 # For 生活
 
