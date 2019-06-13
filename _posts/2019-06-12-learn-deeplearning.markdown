@@ -21,6 +21,14 @@ tags:
 
 ## TensorFlow Hub
 
+TensorFlow Hub is a library for the publication, discovery, and consumption of reusable parts of machine learning models. A module is a self-contained piece of a TensorFlow graph, along with its weights and assets, that can be reused across different tasks in a process known as transfer learning. Transfer learning can:
+    
+    * Train a model with a smaller dataset,
+    * Improve generalization, and
+    * Speed up training.
+
+简单来说，就是快速将预训练过的TensorFlow模型片段再次利用到新的任务上。
+
 使用TensorFlow Hub需要TensorFlow的版本在1.7以上
 
 安装TensorFlow Hub
@@ -29,7 +37,7 @@ tags:
 pip install tensorflow-hub
 ```
 
-文档：[https://tensorflow.google.cn/hub/](https://tensorflow.google.cn/hub/)
+手册：[https://tensorflow.google.cn/hub/](https://tensorflow.google.cn/hub/)
 
 Github：[https://github.com/tensorflow/hub](https://github.com/tensorflow/hub)
 
@@ -41,5 +49,5 @@ Github：[https://github.com/tensorflow/hub](https://github.com/tensorflow/hub)
 
 可用模型：[https://pytorch.org/hub](https://pytorch.org/hub)
 
-Github：[https://github.com/pytorch/pytorch](https://github.com/pytorch/pytorch)
+Github：[https://github.com/pytorch/hub](https://github.com/pytorch/hub)
 
