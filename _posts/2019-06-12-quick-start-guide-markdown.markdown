@@ -5,7 +5,7 @@ subtitle:   "quick start guide"
 date:       2019-06-14 15:24:00
 author:     "陈志勇"
 header-img: "img/post-bg-2015.jpg"
-catalog:    true
+catalog:     true
 tags:
     - Markdown
     - 入门
