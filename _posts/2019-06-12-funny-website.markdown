@@ -13,7 +13,7 @@ tags:
 > “不断探索...... ”
 
 
-# For 学术
+## For 学术
 
 ### 找论文代码，Paperswithcode
 
@@ -32,7 +32,7 @@ tags:
 
 [http://texstudio.sourceforge.net/](http://texstudio.sourceforge.net/)
 
-# For 生活
+## For 生活
 
 ### 快速抠人图
 
