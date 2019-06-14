@@ -32,7 +32,7 @@ tags:
 
 [http://texstudio.sourceforge.net/](http://texstudio.sourceforge.net/)
 
-### 清华大学开源软件镜像站
+### 开源软件镜像站
 
 [https://mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn)
 
