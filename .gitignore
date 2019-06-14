@@ -5,3 +5,9 @@ npm-debug.log
 */.DS_Store
 */*/.DS_Store
 *.sh
+.idea/modules.xml
+*.iml
+.idea/libraries/R_User_Library.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
