@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "mysql数据库直接复制data里的文件夹不能正常使用解决办法"
+title:      "mysql直接复制data文件夹下数据库文件夹提示找不到表解决办法"
 subtitle:   "坑爹mysql"
 date:       2019-06-16 20:26:00
 author:     "陈志勇"
@@ -14,7 +14,7 @@ tags:
 > “不断探索...... ”
 
 
-当我们直接复制 mysql/data 下的数据库文件（如 test/ 文件夹）到新的mysql/data目录下，打开数据库管理软件或者phpmyadmin时，会提示找不到表，但是表名都可以正常显示
+当我们直接复制 mysql/data 下的数据库文件（如 test/ 文件夹）到新的 mysql/data  目录下，打开数据库管理软件或者phpmyadmin时，会提示找不到表，但是表名都可以正常显示
 
 ### 解决办法
 
