@@ -103,7 +103,6 @@ tags:
 
 ### 代码
 
-<<<<<<< HEAD
 ````
 wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
 
