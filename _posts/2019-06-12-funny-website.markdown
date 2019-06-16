@@ -32,6 +32,22 @@ tags:
 
 [http://texstudio.sourceforge.net/](http://texstudio.sourceforge.net/)
 
+### 开源软件镜像站
+
+[https://mirrors.tuna.tsinghua.edu.cn](https://mirrors.tuna.tsinghua.edu.cn)
+
+[http://mirrors.ustc.edu.cn/](http://mirrors.ustc.edu.cn/)
+
+[http://mirrors.lzu.edu.cn](http://mirrors.lzu.edu.cn)
+
+[http://mirrors.cqu.edu.cn](http://mirrors.cqu.edu.cn)
+
+[http://mirrors.geekpie.club](http://mirrors.geekpie.club)
+
+[http://mirrors.huaweicloud.com](http://mirrors.huaweicloud.com)
+
+[http://mirrors.sjtug.sjtu.edu.cn](http://mirrors.sjtug.sjtu.edu.cn)
+
 ## For 生活
 
 ### 快速抠人图

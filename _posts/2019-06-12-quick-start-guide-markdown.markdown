@@ -81,7 +81,7 @@ tags:
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 -----------------------
-### 标题和引用别人的话
+### 标题和注释
 ```
 # 一级标题
 ## 二级标题
@@ -103,6 +103,7 @@ tags:
 
 ### 代码
 
+<<<<<<< HEAD
 ````
 wrap them in backticks: `var example = true`.  If you've got a longer block of code, you can indent with four spaces:
 
@@ -126,3 +127,9 @@ if (isAwesome){
 }
 ```
 ````
+=======
+---------------------
+我是分割线，写着写着不想写了，可以参考这位同学的博文
+
+[https://www.jianshu.com/p/228b648734d6](https://www.jianshu.com/p/228b648734d6)
+>>>>>>> 36412fdaecfb4f33c199b7f6d68461e3b4b0d03b
